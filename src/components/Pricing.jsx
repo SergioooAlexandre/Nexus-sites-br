@@ -7,7 +7,7 @@ export default function Pricing() {
   const plans = [
     {
       name: 'Plano Básico',
-      price: '250',
+      price: '350',
       hosting: '45',
       description: 'Ideal para profissionais autônomos, pequenos negócios locais e início de presença digital.',
       features: [
@@ -23,7 +23,7 @@ export default function Pricing() {
     },
     {
       name: 'Plano Profissional',
-      price: '550',
+      price: '600',
       hosting: '85',
       description: 'Perfeito para empresas em crescimento, clínicas, academias e prestadores de serviço.',
       features: [
