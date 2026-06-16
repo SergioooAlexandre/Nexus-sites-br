@@ -136,8 +136,8 @@ Meus dados de contato:
                   </div>
                   <div>
                     <span className="block text-xs text-gray-500 uppercase font-semibold">E-mail Comercial</span>
-                    <a href="mailto:nexussitesbr@gmail.com" className="text-white font-bold text-base hover:text-brand-blue transition-colors">
-                      nexussitesbr@gmail.com
+                    <a href="mailto:nexusssitesbr@gmail.com" className="text-white font-bold text-base hover:text-brand-blue transition-colors">
+                      nexusssitesbr@gmail.com
                     </a>
                   </div>
                 </div>

@@ -96,11 +96,11 @@ export default function Footer() {
               </a>
 
               <a
-                href="mailto:nexussitesbr@gmail.com"
+                href="mailto:nexusssitesbr@gmail.com"
                 className="flex items-center space-x-2.5 text-sm text-gray-500 hover:text-white transition-colors"
               >
                 <span className="text-brand-blue">✉</span>
-                <span>nexussitesbr@gmail.com</span>
+                <span>nexusssitesbr@gmail.com</span>
               </a>
 
               <div className="text-xs text-gray-500 pt-2 border-t border-white/5 space-y-1">
